@@ -13,6 +13,8 @@
 
         private readonly Mock<IFailoverCustomerDataService> _failoverCustomerDataService;
 
+        private readonly Mock<ICustomerData> _customerData;
+
         private readonly CustomerService _customerService;
 
         private readonly Models.Customer _customer;
@@ -20,10 +22,12 @@
         {
             this._archivedCustomerData = new Mock<IArchivedCustomerData>();
             this._failoverCustomerDataService = new Mock<IFailoverCustomerDataService>();
+            this._customerData = new Mock<ICustomerData>();
 
             this._customerService = new CustomerService(
                 this._archivedCustomerData.Object, 
-                this._failoverCustomerDataService.Object);
+                this._failoverCustomerDataService.Object,
+                this._customerData.Object);
 
             this._customer = new Models.Customer
             {
@@ -48,7 +52,7 @@
         [TestMethod]
         public async Task ShouldReturnCustomer_DataToBeFetchedForFailoverCustomerData()
         {
-            this._failoverCustomerDataService.Setup(x => x.GetCustomerDataByCustomerId(It.IsAny<int>()))
+            this._failoverCustomerDataService.Setup(x => x.GetCustomerDataByCustomerId(It.IsAny<Models.CustomerResponse>()))
                 .ReturnsAsync(this._customer);
 
             var result = await this._customerService.GetCustomer(1, false);

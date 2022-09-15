@@ -29,20 +29,26 @@
         }
 
         public CustomerService(
-            IArchivedCustomerData archivedCustomerData,            
-            IFailoverCustomerDataService failoverCustomerDataService)
+            IArchivedCustomerData archivedCustomerData,
+            IFailoverCustomerDataService failoverCustomerDataService,
+            ICustomerData customerData)
         {
             this._archivedCustomerData = archivedCustomerData;
             this._failoverCustomerDataService = failoverCustomerDataService;
+            this._customerData = customerData;
         }
-        public async Task<Customer> GetCustomer(int customerId, bool isCustomerArchived)
+
+        public async Task<Customer> GetCustomer(int customerId, bool isCustomerArchived = default)
         {
-            if (isCustomerArchived)
+
+            var customerData = await this._customerData.GetCustomerResponseByCustomerId(customerId);
+
+            if (customerData.IsArchived)
             {
                 return await this._archivedCustomerData.GetCustomerDataByCustomerId(customerId);
             }
 
-            return await this._failoverCustomerDataService.GetCustomerDataByCustomerId(customerId);
+            return await this._failoverCustomerDataService.GetCustomerDataByCustomerId(customerData);
         }
     }
 }

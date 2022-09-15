@@ -5,6 +5,6 @@ namespace Asos.CodeTest.Service.Interfaces
 {
     public interface IFailoverCustomerDataService
     {
-        Task<Customer> GetCustomerDataByCustomerId(int customerId);
+        Task<Customer> GetCustomerDataByCustomerId(CustomerResponse customer);
     }
 }

@@ -1,7 +1,3 @@
-C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Asos.CodeTest.UnitTest.dll.config
 C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Asos.CodeTest.UnitTest.dll
 C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.UnitTest\bin\Debug\Asos.CodeTest.UnitTest.pdb

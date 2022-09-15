@@ -31,7 +31,7 @@
         }
 
 
-        public async Task<Customer> GetCustomerDataByCustomerId(int customerId)
+        public async Task<Customer> GetCustomerDataByCustomerId(CustomerResponse customer)
         {
             var failoverEntries = this._failoverRepository.GetFailOverEntries();
 
@@ -40,15 +40,10 @@
             var customerResponse = 
                 (failedRequests > 100
                 && ConfigurationManager.AppSettings["IsFailoverModeEnabled"].ToLower().Trim() == "true")
-                ? await this._failoverCustomerData.GetCustomerResponseByCustomerId(customerId)
-                : await this._customerData.GetCustomerResponseByCustomerId(customerId);
+                ? await this._failoverCustomerData.GetCustomerResponseByCustomerId(customer.Customer.Id)
+                : customer;
 
-            var customer = 
-                (customerResponse.IsArchived)
-                ? await this._archivedCustomerData.GetCustomerDataByCustomerId(customerId)
-                : customerResponse.Customer;
-
-            return customer;
+            return customerResponse.Customer;
         }
     }
 }

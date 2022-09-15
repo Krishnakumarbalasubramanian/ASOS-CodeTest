@@ -70,7 +70,7 @@
         [TestMethod]
         public async Task ShouldReturnCustomerData_FailoverButArchivedCustomerData()
         {
-            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(1);
+            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(this._customerResponse);
 
             this.AssertTestResponse(result);
         }
@@ -83,7 +83,7 @@
             this._customerData.Setup(x => x.GetCustomerResponseByCustomerId(It.IsAny<int>()))
                 .ReturnsAsync(this._customerResponse);
 
-            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(1);
+            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(this._customerResponse);
 
             this.AssertTestResponse(result);
         }
@@ -99,7 +99,7 @@
 
             this._failoverCustomerData.Setup(x => x.GetCustomerResponseByCustomerId(It.IsAny<int>())).ReturnsAsync(this._customerResponse);
 
-            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(1);
+            var result = await this._failoverCustomerDataService.GetCustomerDataByCustomerId(this._customerResponse);
             
             this.AssertTestResponse(result);
         }
