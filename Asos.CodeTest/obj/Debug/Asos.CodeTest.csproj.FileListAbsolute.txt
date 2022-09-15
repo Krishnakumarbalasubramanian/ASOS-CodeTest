@@ -1,0 +1,6 @@
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\obj\Debug\Asos.CodeTest.csproj.AssemblyReference.cache
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\obj\Debug\Asos.CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest\obj\Debug\Asos.CodeTest.pdb

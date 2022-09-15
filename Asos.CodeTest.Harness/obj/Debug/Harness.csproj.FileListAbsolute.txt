@@ -1,0 +1,27 @@
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.dll
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.pdb
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.dll
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.pdb
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.AssemblyReference.cache
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CoreCompileInputs.cache
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CopyComplete
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.dll
+C:\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.pdb
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.dll
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.pdb
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.dll
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.pdb
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.AssemblyReference.cache
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CoreCompileInputs.cache
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CopyComplete
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.dll
+C:\Users\830442\OneDrive - Cognizant\DocumentsMine\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.pdb
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.dll
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Harness.pdb
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.dll
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\bin\Debug\Asos.CodeTest.pdb
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.AssemblyReference.cache
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CoreCompileInputs.cache
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.csproj.CopyComplete
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.dll
+C:\Users\830442\OneDrive - Cognizant\Documents\ASOS_LSE_Code_Test\ASOS_LSE_Code_Test\Asos.CodeTest.Harness\obj\Debug\Harness.pdb
